@@ -7,7 +7,7 @@
 ## About Me: 🌐
 
 1. 👨🏻‍💻 Name: Q 
-2. 🎓 Major: Computer Science & Engineering
+2. 🎓 Interests: Computer & Network Security, Hacking, Reverse Engineering, Malware Analysis
 3. :seedling: Learning: Networking + Computer Security 
 4. 🦾 Currently Working On: Operating Systems, CTFs
 5. 🎲 Langs: C/C++, Python, Java, JS, Rust, Ruby, Asm, Verilog 
