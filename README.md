@@ -14,9 +14,9 @@
 
 ## What's In My Repository:
 
-1. CTF Solutions
-2. Lectures That I Have Created
-3. Malware and Viruses
-4. Antivirus Tools 
-5. Linux Kernel Dissection 
-6. Algorithms and DataStructures Index
+1. 💡 CTF and BOJ Solutions
+2. ✏️ Lectures That I Have Created
+3. 👾 Malware and Viruses
+4. 💊 Antivirus Tools 
+5. 🐸 Linux Kernel Dissection 
+6. 📖 Algorithms and DataStructures Index
