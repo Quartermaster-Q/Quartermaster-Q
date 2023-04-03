@@ -1,4 +1,4 @@
-# ✨ The Quartermaster Branch ✨ <img src="![IMG_0888]https://user-images.githubusercontent.com/129717137/229432045-35d6883f-3bd4-48f0-a60d-c6b8a72ee4d5.jpg" width="25px">
+# ✨ The Quartermaster Branch ✨ <img src="https://user-images.githubusercontent.com/129717137/229432045-35d6883f-3bd4-48f0-a60d-c6b8a72ee4d5.jpg" width="25px">
 
 <img align="center" alt="GIF" src=https://github.com/yoonBot/yoonBot/blob/main/coding.gif width="408" height="318" />
 
